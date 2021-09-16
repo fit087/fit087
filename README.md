@@ -1,5 +1,7 @@
 ### Hi there 👋
-📫 I'm Adolfo. You can find me at [Linkedin](https://www.linkedin.com/in/adolfo-correa-lopez/)
+📫 I'm Adolfo. You can find me at [Linkedin](https://www.linkedin.com/in/adolfo-correa-lopez/) or in [Kaggle](https://www.kaggle.com/adolfcorrea)
+
+Watch my [Data Science Portfolio](https://github.com/fit087/DS-Portfolio)
 
 - 💬 Ask me about I'm PhD Student at Pontifical Catholic University of Rio de Janeiro researching about fluid mechanics with Physically Informed Neural Networks (PINN)
 - 🌱 I’m currently learning about Data Science, Machine Learning and Deep Learning
