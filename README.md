@@ -4,7 +4,7 @@
 Watch my [Data Science Portfolio](https://github.com/fit087/DS-Portfolio)
 
 - 💬 Ask me about I'm Ph.D. Student at Pontifical Catholic University of Rio de Janeiro researching about fluid mechanics with Physically Informed Neural Networks (PINN)
-- 🌱 I’m currently learning about Data Science, Machine Learning and Deep Learning
+- 🌱 I’m currently learning about Data Science, Machine Learning, Deep Learning and Big Data
 - 🔭 Currently, I'm a Pre-Doctoral Research Intern at IBM and I'm looking for a reallocation into the DS, ML, DL industry.
 
 ### Working 🔭
